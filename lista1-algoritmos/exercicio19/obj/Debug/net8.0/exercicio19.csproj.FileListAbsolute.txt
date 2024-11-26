@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\bin\Debug\net8.0\exercicio19.exe
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\bin\Debug\net8.0\exercicio19.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\bin\Debug\net8.0\exercicio19.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\bin\Debug\net8.0\exercicio19.dll
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\bin\Debug\net8.0\exercicio19.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\exercicio19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\exercicio19.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\exercicio19.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\exercicio19.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\exercicio19.dll
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\refint\exercicio19.dll
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\exercicio19.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\exercicio19.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio19\obj\Debug\net8.0\ref\exercicio19.dll
