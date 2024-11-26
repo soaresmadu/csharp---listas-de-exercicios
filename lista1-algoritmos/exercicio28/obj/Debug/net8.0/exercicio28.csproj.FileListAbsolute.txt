@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\bin\Debug\net8.0\exercicio28.exe
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\bin\Debug\net8.0\exercicio28.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\bin\Debug\net8.0\exercicio28.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\bin\Debug\net8.0\exercicio28.dll
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\bin\Debug\net8.0\exercicio28.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\exercicio28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\exercicio28.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\exercicio28.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\exercicio28.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\exercicio28.dll
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\refint\exercicio28.dll
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\exercicio28.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\exercicio28.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\csharp - lista 1 - algoritmos\exercicio28\obj\Debug\net8.0\ref\exercicio28.dll
